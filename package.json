@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viniciuspsw/planer.git"
+    "url": "git+https://github.com/blueoneapp/planer-lib.git"
   },
   "keywords": [
     "email",
